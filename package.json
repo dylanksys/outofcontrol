@@ -1,0 +1,12 @@
+{
+  "name": "wrecked",
+  "description": "getwreckt",
+  "author": "dylanksys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanksys/outofcontrol"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
